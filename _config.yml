@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Abhishek Kumar"
 title_separator          : "-"
 name                     : &name "Abhishek Kumar"
-description              : &description "A physicist"
+description              : &description "Quantum Algorithm and Many-body Physics Researcher"
 url                      : url: "https://AbhiPhy2020.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AbhiPhy2020.github.io"
+repository               : "AbhiPhy2020/AbhiPhy2020.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Abhishek Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "A physicist working at the interface of Quantum computing, CMP,AMO "
-  location         : "USA"
+  bio              : "Postdoctoral researcher working on quantum algorithms, quantum simulation, and nonequilibrium many-body physics."
+  location         : "Blacksburg, Virginia, USA"
   employer         : "Virginia Tech"
   uri              : # URL
   email            : "abhiphys2020@gmail.com" 
@@ -34,10 +34,8 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=06GDrtoAAAAJ&hl=en"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-3358-7787"
- 
-
   # Repositories and software development
-  github           : "academicpages"
+  github           : "AbhiPhy2020"
   
 
 
